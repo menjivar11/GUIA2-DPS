@@ -1,0 +1,81 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+  background-image: url(https://4a06ded149.cbaul-cdnwnd.com/3e2ae20297b63ce0bcb8c3e0ed3ae302/200000004-ddaa8dea57/el-dinero-esta-en-las-matematicas-la-elite-se-prepara-para-arrasar-en-los-numeros.jpg?ph=4a06ded149);
+  }
+
+  /*.baner{
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      background-color: #52595c;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      position: relative;
+      } */
+
+  .calculadora {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #52595c;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  }
+  .numeros {
+  margin-bottom: 10px;
+  }
+  .text {
+  display: block;
+  margin-bottom: 5px;
+  }
+  .inputnum {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: rgb(94, 94, 44);
+  }
+  .button {
+    background-color: rgb(38, 38, 107);
+  font-size: 1.2em;
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  }
+  .button2 {
+    background-color: rgb(87, 151, 87);
+    font-size: 1.2em;
+  padding: 10px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  text-align: center;
+  width: 150px;
+    }
+  .resultado {
+    margin-top: 10px; 
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 5px;
+  }
+  
+  
